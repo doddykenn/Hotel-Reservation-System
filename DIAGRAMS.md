@@ -1,5 +1,5 @@
 # System Diagrams
-## Hotel Reservation Web App
+## Hotel Reservation System
 
 ---
 
